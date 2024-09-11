@@ -1,3 +1,0 @@
-spacy
-numpy
-scikit-fuzzy
